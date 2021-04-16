@@ -1,0 +1,35 @@
+﻿  Fisierul.cpp
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(24,54): warning C4018: '<': signed/unsigned mismatch
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(29,61): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(29,56): warning C4309: 'argument': truncation of constant value
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(47,39): warning C4018: '<': signed/unsigned mismatch
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(55,39): warning C4018: '<': signed/unsigned mismatch
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(65,31): warning C4018: '>': signed/unsigned mismatch
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(92,39): warning C4018: '<': signed/unsigned mismatch
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(126,62): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(126,56): warning C4309: 'argument': truncation of constant value
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(244,27): warning C4018: '<': signed/unsigned mismatch
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(252,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(265,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(223,9): warning C4101: 'intNumber': unreferenced local variable
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(298,27): warning C4018: '<': signed/unsigned mismatch
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(304,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(316,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(280,9): warning C4101: 'intNumber': unreferenced local variable
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(372,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(373,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(396,9): warning C4101: 'intNumber': unreferenced local variable
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(397,11): warning C4101: 'floatNumber': unreferenced local variable
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(438,9): warning C4101: 'intNumber': unreferenced local variable
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(439,11): warning C4101: 'floatNumber': unreferenced local variable
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(488,23): warning C4018: '<': signed/unsigned mismatch
+D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\functionalitate_calculator\Fisierul.cpp(207): warning C4715: 'stringProcesing::calculate': not all control paths return a value
+  functionalitate_calculator.vcxproj -> D:\WorkingSpaceVS\tema_radulescu\functionalitate_calculator\Debug\functionalitate_calculator.exe
