@@ -106,5 +106,13 @@ public:
     /// return 0 if the string isn`t formed only with numbers
     ///
 
-    //string parantesisCheck(string number);
+    string bigNumberSum(string str1, string str2);
+
+    bool isSmaller(string str1, string str2);
+
+    string findDiff(string str1, string str2);
+
+    string multiply(string num1, string num2);
+
+    string longDivision(string number, int divisor);
 };
